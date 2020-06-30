@@ -1,0 +1,29 @@
+[appendix]
+== Unicode Input
+
+The following table lists a few Unicode characters out of many that can be entered via tab completion of LaTeX-like abbreviations in the Julia REPL (and in various other editing environments).
+(((Unicode character)))(((LaTeX-like abbreviations)))(((REPL)))
+
+[options="header"]
+|====
+|Character|Tab completion sequence|ASCII representation
+|+²+|*+\^2+*| 
+|+₁+|*+\_1+*| 
+|+₂+|*+\_2+*|
+|+🍎+|*+\:apple:+*|
+|+🍌+|*+\:banana:+*|
+|+🐫+|*+\:camel:+*|
+|+🍐+|*+\:pear:+*|
+|+🐢+|*+\:turtle:+*|
+|+∩+|*+\cap+*|
+|+≡+|*+\equiv+*|+===+
+|+ℯ+|*+\euler+*|
+|+∈+|*+\in+*|+in+
+|+≥+|*+\ge+*|+>=+
+|+≤+|*+\le+*|+pass:[&lt;=]+
+|+≠+|*+\ne+*|+!=+
+|+∉+|*+\notin+*| 
+|+π+|*+\pi+*|+pi+
+|+⊆+|*+\subseteq+*|
+|+ε+|*+\varepsilon+*| 
+|====
