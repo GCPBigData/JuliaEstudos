@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffc11ce5-a558-4ac6-b24e-3252eac5d8a6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/e1.jl" afterDir="false" />
-    </list>
+    <list default="true" id="ffc11ce5-a558-4ac6-b24e-3252eac5d8a6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593584623048</updated>
       <workItem from="1593584655412" duration="1977000" />
+      <workItem from="1593721876756" duration="8000" />
     </task>
     <servers />
   </component>
@@ -88,5 +87,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
